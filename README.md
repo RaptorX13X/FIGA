@@ -1,7 +1,7 @@
 # Furries In Galaxy Adventure
 
 ### About the project
-F.I.G.A was a submission to April 2024 local gamejam completed in 28 hours of work. The topic was figa (or fig in english), we approached the topic by designing a game about a bat thats looking for figs in a cosmic environment while fighting off evil kobolds who prefer bananas.
+F.I.G.A was a submission to April 2024 local gamejam completed in 28 hours of work. The topic was "figa" (or fig in english), we approached the topic by designing a game about a bat thats looking for figs in a cosmic environment while fighting off evil kobolds who prefer bananas.
 The special mechanic made for this game is the echolocation, without which the world seems empty, but dangerous.
 
 ### How does it work
