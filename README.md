@@ -61,7 +61,7 @@ public class Echolocation : MonoBehaviour
 ```
 
 Echolocation is necessary to progress through the game. At the beginning every game object, except for the starting space-island and player character, has its renderer turned off. Through echolocation players can uncover islands, pick ups and enemies. 
--Player character has a permanent trigger collider that collects all objects with a mesh renderer attached, and removes them when outside of colliders range.
--When players click the tab button, the player character lets out a burst of particles, a sound indicating the skill being used and enables all mesh renderers in range.
--When an object is destroyed it may stay on the list permanently. To avoid trying to enable a renderer that doesn't exist anymore the foreach loop skips objects that are marked as null.
--While scripts in this project may seem crude due to limited amount of time during the gamejam, in these circumstances what is important is that they work.
+- Player character has a permanent trigger collider that collects all objects with a mesh renderer attached, and removes them when outside of colliders range.
+- When players click the tab button, the player character lets out a burst of particles, a sound indicating the skill being used and enables all mesh renderers in range.
+- When an object is destroyed it may stay on the list permanently. To avoid trying to enable a renderer that doesn't exist anymore the foreach loop skips objects that are marked as null.
+- While scripts in this project may seem crude due to limited amount of time during the gamejam, in these circumstances what is important is that they work.
